@@ -1,14 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
+	"customers": [{
+			"Id": 1,
+			"first_name": "Rockwell",
+			"last_name": "Baynes",
+			"email": "rbaynes0@bigcartel.com",
+			"gender": "Male",
+			"Phone Number": "5895274655"
+		},
+		{
+			"Id": 2,
+			"first_name": "Amber",
+			"last_name": "Newbury",
+			"email": "anewbury1@boston.com",
+			"gender": "Female",
+			"Phone Number": 9802219657
+		},
+		{
+			"Id": 3,
+			"first_name": "Pammie",
+			"last_name": "Pridgeon",
+			"email": "ppridgeon2@fda.gov",
+			"gender": "Female",
+			"Phone Number": 9209657528
+		}
+	]
 }
